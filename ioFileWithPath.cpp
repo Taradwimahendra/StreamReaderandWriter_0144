@@ -35,5 +35,7 @@ outfile.open(NamaFile + ".txt", ios::out);
         {
              cout << baris << '\n';
         }
+        infile.close();
      }
+    
 }
