@@ -26,4 +26,5 @@ int main (){
      ifstream infile;
 
      infile.open("contohFile.txt");
+     Cout << ">= Membuka dan membaca file " << endl;
 }
