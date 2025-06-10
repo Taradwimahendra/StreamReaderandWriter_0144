@@ -4,4 +4,4 @@
 using namespace std;
 
 string baris;
-
+string NamaFile;
