@@ -37,5 +37,7 @@ outfile.open(NamaFile + ".txt", ios::out);
         }
         infile.close();
      }
+    else cout << "Unable to open file";
+    return 0;
     
 }
