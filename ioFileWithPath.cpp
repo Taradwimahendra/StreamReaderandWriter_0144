@@ -32,5 +32,8 @@ outfile.open(NamaFile + ".txt", ios::out);
      if (infile.is_open())
      {
         while (getline(infile, baris))
+        {
+             cout << baris << '\n';
+        }
      }
 }
