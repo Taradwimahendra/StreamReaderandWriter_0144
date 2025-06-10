@@ -25,7 +25,10 @@ outfile.open(NamaFile + ".txt", ios::out);
     outfile.close();
 
      ifstream infile;
-     
+
     infile.open(NamaFile, ios::out);
      cout << ">= Membuka dan membaca file " << endl;
+
+     if (infile.is_open())
+     {}
 }
