@@ -22,4 +22,5 @@ outfile.open(NamaFile + ".txt", ios::out);
        outfile << baris << endl;
       }
 
+    outfile.close();
 }
