@@ -34,6 +34,6 @@ int main (){
         {
         cout << baris << endl;
         }
-     
+        infile.close();
      }
 }
