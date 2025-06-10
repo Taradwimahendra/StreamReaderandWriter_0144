@@ -24,4 +24,6 @@ int main (){
      outfile.close();
 
      ifstream infile;
+
+     infile.open("contohFile.txt");
 }
