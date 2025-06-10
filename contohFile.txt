@@ -1,0 +1,3 @@
+cd "c:\Users\TaraDwiMahendra\Documents\StreamReaderandWriter\" ; if ($?) { g++ ioFile.cpp -o ioFile } ; if ($?) { .\ioFile }
+cd "c:\Users\TaraDwiMahendra\Documents\StreamReaderandWriter\" ; if ($?) { g++ ioFile.cpp -o ioFile } ; if ($?) { .\ioFile }
+cd "c:\Users\TaraDwiMahendra\Documents\StreamReaderandWriter\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
